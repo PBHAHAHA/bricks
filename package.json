@@ -30,8 +30,5 @@
     "rollup": "^4.9.1",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-node-resolve": "^5.2.0"
-  },
-  "lint-staged": {
-    "*.js": "eslint --cache --fix"
   }
 }
